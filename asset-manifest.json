@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-app/static/css/main.85ef086f.css",
+    "main.js": "/Ecommerce-app/static/js/main.b3062f87.js",
+    "static/media/logo.svg": "/Ecommerce-app/static/media/logo.581b82e94f29a3b6db6324cc7cdc2e6b.svg",
+    "static/media/shopping-bag.svg": "/Ecommerce-app/static/media/shopping-bag.4a21efde611865b1ad849fc3a64567c2.svg",
+    "index.html": "/Ecommerce-app/index.html",
+    "main.85ef086f.css.map": "/Ecommerce-app/static/css/main.85ef086f.css.map",
+    "main.b3062f87.js.map": "/Ecommerce-app/static/js/main.b3062f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ef086f.css",
+    "static/js/main.b3062f87.js"
+  ]
+}
